@@ -1,0 +1,23 @@
+* {
+    font-family: sans-serif;
+}
+/*Image style*/
+img{
+    border-radius: 250px;
+    width: 250px;
+    height: 250px;
+    margin: auto;
+}
+/*Button styles*/
+.btn-style{
+    border: none;
+    border-radius: 10px;
+    background-color: #5500A7;
+    color: ivory;
+    height: 30px;
+}
+
+button:hover {
+    text-decoration:underline;
+    background-color: #7D0FE7;
+}
